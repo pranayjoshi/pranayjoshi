@@ -5,7 +5,7 @@
 
 ## I am AI Researcher/Data Scientist | OSS/BackEnd/Python Developer | Cosmo Enthusiast | School Student
 
-- 🔭 I’m currently working on my [AI Projects][website]!
+- 🔭 I’m currently working on with [Deterministic Algorithms Lab][org]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer(anyone who want to colaborate can contact me).
 - 🥅 2020 Goals: Be good at Artificial Intelligene
@@ -46,6 +46,7 @@
 
 </details>
 
+[org]: https://www.linkedin.com/company/deterministic-algorithms-lab/
 [website]: https://pranayjoshi.github.io
 [twitter]: https://twitter.com/_pranayjoshi_
 [youtube]: https://youtube.com/pranayteaches
