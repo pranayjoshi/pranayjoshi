@@ -5,10 +5,10 @@
 
 ## I am AI Researcher/Data Scientist | OSS/BackEnd/Python Developer |  School Student
 
-- 🔭 I’m currently working on with [Deterministic Algorithms Lab][org]!
+- 🔭 I’m currently working with [Deterministic Algorithms Lab][org]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer(anyone who want to colaborate can contact me).
-- 🥅 2020 Goals: Be good at Artificial Intelligene
+- 🥅 2020 Goals: Ream as many as 50 Research Papers | Master Data Sciene Maths
 - ⚡ Fun fact: I love Astronomy/Cosmology
 
 ### Connect with me:
