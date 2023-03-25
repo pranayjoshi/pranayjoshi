@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/website?label=pranayjoshi.github.io&style=for-the-badge&url=https%3A%2F%2Fpranayjoshi.github.io)](https://pranayjoshi.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_pranayjoshi_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=_pranayjoshi_)
 
-## I am AI Researcher | OSS/BackEnd/Python Developer |  School Student
+## My Programming Experience includes[Data Science(Kaggle Expert), Web dev(MERN + Golang), Cross Platform Development(Flutter), DS & Algo(Java)]
 
-- 🔭 I’m currently working with [Deterministic Algorithms Lab][org]!
+- 🔭 I’m currently developing [Social Media Application][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer(anyone who want to colaborate can contact me).
-- 🥅 2020 Goals: Ream as many as 50 Research Papers | Master Data Sciene Maths
-- ⚡ Fun fact: I love Astronomy/Cosmology
+- 👯 I’m looking to collaborate with other developer.
+- 🥅 2023 Goals: Launch my first Tech Startup
+- ⚡ Fun fact: Going to College this year.
 
 ### Connect with me:
 
@@ -20,7 +20,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools Used:
 
 [<img align="left" alt="python" width="54px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][pythonplaylist]
 [<img align="left" alt="tensorflow" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][website]
