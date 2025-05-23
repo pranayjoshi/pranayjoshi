@@ -50,7 +50,7 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 </details>
 
 [org]: https://www.linkedin.com/company/deterministic-algorithms-lab/
-[website]: https://pranayjoshi.github.io
+[website]: https://www.pranayjoshi.com
 [twitter]: https://twitter.com/_pranayjoshi_
 [youtube]: https://youtube.com/pranayteaches
 [linkedin]: https://linkedin.com/in/pranay-joshi-111098187
